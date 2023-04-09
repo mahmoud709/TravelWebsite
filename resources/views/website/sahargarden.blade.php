@@ -70,7 +70,7 @@
                             <div class="card m-3 p-3 text-center">
                                     <img src="{{ asset('assets/images/pharmacy.AVIF') }}" alt="pharmacy" width="80px">
                                     <div class="card-body">
-                                        <p class="card-text fs-4" data-translate="serv4"><a href="https://www.linkedin.com/in/lifeline-hospital-salalah-157b6b1ab?originalSubdomain=om">Hospital</a></p>
+                                        <p class="card-text fs-4" data-translate="serv4"><a href="https://g.co/kgs/fkfm8w">Hospital</a></p>
                                     </div>
                                     <div class="address">
                                         <p class="phoneNum">phone :+968 6354 7896</p>
